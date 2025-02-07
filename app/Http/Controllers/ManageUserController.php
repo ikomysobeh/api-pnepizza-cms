@@ -17,6 +17,7 @@ class ManageUserController extends Controller
 {
     protected string $pathImage = 'public/user';
 
+
     /**
      * @OA\Get(
      *     path="/api/v1/users",
